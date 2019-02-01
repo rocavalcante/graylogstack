@@ -1,0 +1,2 @@
+# graylogstack
+Graylog stack 
